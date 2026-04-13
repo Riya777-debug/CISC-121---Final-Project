@@ -40,6 +40,7 @@ Restrictions:
 
 Flowchart:
 
+<img width="512" height="792" alt="image" src="https://github.com/user-attachments/assets/6a6f4fab-4ac6-439f-8333-b9b5a387e35b" />
 
 
 
