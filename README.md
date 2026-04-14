@@ -1,19 +1,14 @@
 # CISC-121---Final-Project
-Building an app using merge sort to order songs.
 
 
 # Problem Breakdown:
-## Algorithm Name: Playlist Vibe Builder
+## Algorithm Name: Playlist Vibe Builder using Merge Sort
+
+Merge sort works for this problem because it will break the list of songs into smaller parts, sort the smaller parts based on the key the user chooses, and finally merge the sorted lists together. It's hard to pick a pivot value for quick sort because each song has different properties that make it hard to find a song that is in the middle.
 
 ## Demo video/gif/screenshot of test
 
 ## Problem Breakdown & Computational Thinking
-
-(if you have time, let the user input the songs aswell. Might be too much work for the user?)
-(or could ask user for key first, and only ask for the details needed to sort by the key)
-ex. input: key, title, duration
-    key = duration
-    ask user for duration of songs with their titles
 
 ### Decomposition:
 1) Create a list of songs with their details (title, duration, chart ranking etc.)
