@@ -46,7 +46,18 @@ Flowchart:
 
 
 ## Steps to Run
+1) choose to add / remove a song (optional)
+2) choose what to sort by using the drop down
+3) program generates a bargraph of the sorted list of songs
 
 ## Hugging Face Link
+https://huggingface.co/spaces/RiyaB777/Playlist-Sorter 
 
 ## Author & AI Acknowledgment
+Chat gpt for setting up things, understanding concepts, how to use hugging face, fixing bugs
+Setup: https://chatgpt.com/share/69de6e0a-38f0-8333-8af0-3babbadee64b 
+Code: https://chatgpt.com/share/69dee9f8-c794-8332-b46c-20bc4dfc2880 \
+      https://chatgpt.com/share/69e04b4a-0160-832a-b6ae-f0b4e8c5b533 
+      https://chatgpt.com/c/69dfba65-488c-8328-807e-5b74d41a5de0 
+
+
