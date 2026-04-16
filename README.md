@@ -8,6 +8,12 @@ Merge sort works for this problem because it will break the list of songs into s
 
 ## Demo video/gif/screenshot of test
 
+<img width="1835" height="901" alt="image" src="https://github.com/user-attachments/assets/3eee35f0-e984-463a-9c43-9b0b3947d789" />
+<img width="1789" height="805" alt="image" src="https://github.com/user-attachments/assets/3128ca7d-f63d-47ea-908c-56e66f7bdc38" />
+<img width="1808" height="940" alt="image" src="https://github.com/user-attachments/assets/7e7b9ccc-a80b-4b09-af55-de7e52ea252f" />
+
+
+
 ## Problem Breakdown & Computational Thinking
 
 ### Decomposition:
